@@ -1,5 +1,5 @@
 /Dataset
 /GAN models
 /.ipynb_checkpoints
-/fid_fake
-/fid_real
+fid_fake
+fid_real
